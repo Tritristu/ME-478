@@ -1,6 +1,9 @@
 Author: Eric Lee
+Course: ME478 Introduction to Finite Element Analysis
+Instructor: Per Reinhall
+Period: Spring 2024
 
-Hello! This is a compilation of work I have done for ME478 Finite Element Analysis Spring 2024
+Hello! This is a compilation of work I have done for future reference :)
 
 You will find the textbook, solution manual, lecture notes, and tutorials for reference
 (NOTE: solution manual numbers sometimes do not match assigned HW numbers due to being from 
